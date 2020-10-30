@@ -7,3 +7,5 @@ As of now Kankurro could not fork because forking is disabled - now we will enab
 Sln could not enable forking on the kankurro-repo as the forking for the org level is disabled - we will now enable forking in the org level - we will also create another repo within sln org - naruto-repo
 once Forking was enabled at the org level: all the repos within the sln-org allowed to be forked - so this is default allow behavior
 kankurro777 user will now fork this repo
+kankurro777 has forked this repo into his personal space
+kankurro777 cannot make this repo public (ie. cannot change visibility)
