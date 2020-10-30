@@ -8,4 +8,4 @@ Sln could not enable forking on the kankurro-repo as the forking for the org lev
 once Forking was enabled at the org level: all the repos within the sln-org allowed to be forked - so this is default allow behavior
 kankurro777 user will now fork this repo
 kankurro777 has forked this repo into his personal space
-kankurro777 cannot make this repo public (ie. cannot change visibility)
+kankurro777 cannot make this repo public (ie. cannot change visibility) but can duplicate the repo. We will attempt that from kankurro777 account
